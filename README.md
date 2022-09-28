@@ -56,6 +56,8 @@ def max_marks(list1):
 
 # 3 To find the maximum marks without using builtin functions.
 ![output](/q3.png)
-```Python
+
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
+
+
